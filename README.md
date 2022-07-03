@@ -12,6 +12,7 @@ Here is a little demonstration to show you how snowball feels like
 
 {% code title="main.sn" %}
 ```rust
+import System
 
 class Vector {
 
@@ -23,16 +24,21 @@ class Vector {
     }
     
     // JS equivalent: const __sum = (this, vec2) => new Vector(...)
+    // overrides operator +
     pub fn __sum(self, vec2: Vector) -> Vector = 
         new Vector(self.x + vec2.x, self.y + vec2.y)
     
     pub fn __str(self) -> String {
-        return
+        return "Vector(x=${self.x} y=${self.y})"
     }
 }
 
-fn main(args: Array<String>) {
+fn main(args: Array<String>) -> Number {
+    let vec1 = new Vector(1,2)
+    let vec2 = new Vector(10,22)
     
+    System.print(vec1 + vec2)
+    return 0
 }
 ```
 {% endcode %}
