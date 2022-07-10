@@ -19,18 +19,18 @@ class Vector {
     priv Number x;
     priv Number y;
 
-    pub fn __init(self, x: Number, y: Number) {
+    pub fn __init(x: Number, y: Number) {
         self.x, self.y = x, y;        
     }
     
     // JS equivalent: const __sum = (this, vec2) => new Vector(...)
     // overrides operator +
-    pub fn __sum(self, vec2: Vector) -> Vector = 
+    pub fn __sum(vec2: Vector) -> Vector = 
         new Vector(self.x + vec2.x, self.y + vec2.y)
     
-    pub fn __str(self) -> String {
+    pub fn __str() -> String {
         return "Vector(x=${self.x} y=${self.y})"
-    }
+    } 
 }
 
 fn main(args: Array<String>) -> Number {
