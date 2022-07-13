@@ -47,16 +47,16 @@ fn main(args: Array<String>) -> Number {
 
 Follow our handy guides to get started on the basics as quickly as possible:
 
-{% content-ref url="guides/creating-your-first-project.md" %}
-[creating-your-first-project.md](guides/creating-your-first-project.md)
+{% content-ref url="guides/object-oriented-programming.md" %}
+[object-oriented-programming.md](guides/object-oriented-programming.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/creating-your-first-task.md" %}
-[creating-your-first-task.md](guides/creating-your-first-task.md)
+{% content-ref url="guides/basic-concepts.md" %}
+[basic-concepts.md](guides/basic-concepts.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/advanced-permissions.md" %}
-[advanced-permissions.md](guides/advanced-permissions.md)
+{% content-ref url="guides/advanced-concepts.md" %}
+[advanced-concepts.md](guides/advanced-concepts.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}

@@ -4,9 +4,9 @@
 
 ## Guides
 
-* [Creating your first project](guides/creating-your-first-project.md)
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
+* [Basic Concepts](guides/basic-concepts.md)
+* [Advanced Concepts](guides/advanced-concepts.md)
+* [Object Oriented Programming](guides/object-oriented-programming.md)
 
 ## Fundamentals
 
