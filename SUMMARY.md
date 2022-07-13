@@ -8,13 +8,6 @@
 * [Advanced Concepts](guides/advanced-concepts.md)
 * [Object Oriented Programming](guides/object-oriented-programming.md)
 
-## Fundamentals
-
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
-
 ## Use Cases
 
 * [For Designers](use-cases/for-designers/README.md)
