@@ -44,3 +44,11 @@ class MyClass {
 }
 ```
 {% endhint %}
+
+## Magic methods
+
+Magic methods are used to bring better functionality to a class. To know more about them, visit the link below.
+
+{% content-ref url="../extras/magic-methods.md" %}
+[magic-methods.md](../extras/magic-methods.md)
+{% endcontent-ref %}
