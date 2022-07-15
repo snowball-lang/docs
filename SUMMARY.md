@@ -14,4 +14,4 @@
 
 ## Extras
 
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
+* [Magic Methods](extras/magic-methods.md)
