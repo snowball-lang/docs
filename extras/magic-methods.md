@@ -32,7 +32,24 @@ TODO
 
 ### \_\_sum
 
-TODO
+The `__sum` method is an operator override. It is called when using the `+` operator. This function can be overloaded by using different argument types. Only one argument is passed to the method and that is the object that you are subtracting from.
+
+```rust
+class Vector {
+    fn __sum(vec2: Vector) -> Vector {
+        return new Vector(self.x + vec2.x)
+    }
+    
+    fn __sum(num2: Number) -> Vector {
+        return new Vector(self.x + num2)
+    }
+}
+
+fn main() {
+    var a = new Vector() + new Vector();
+    var b = new Vector() + 23;
+}
+```
 
 ### \_\_sub
 
@@ -68,7 +85,13 @@ TODO
 
 ### \_\_repr
 
-TODO
+This magical method is used (normally) for debugging purposes. The `__repr` method should return a string and it can't have any arguments. Please, note that `__str` and `__repr` are 2 different functions and they do not share the same purpose.&#x20;
+
+If possible, refer to the Style Standards to know how to represent a class inside a string.
+
+{% content-ref url="../style-standards/class-representations.md" %}
+[class-representations.md](../style-standards/class-representations.md)
+{% endcontent-ref %}
 
 ### \_\_del
 

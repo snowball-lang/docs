@@ -15,3 +15,8 @@
 ## Extras
 
 * [Magic Methods](extras/magic-methods.md)
+
+## Style Standards
+
+* [Variables / Constants](style-standards/variables-constants.md)
+* [Class Representations](style-standards/class-representations.md)
