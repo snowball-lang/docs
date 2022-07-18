@@ -6,6 +6,7 @@
 
 * [Basic Concepts](guides/basic-concepts.md)
 * [Advanced Concepts](guides/advanced-concepts.md)
+* [Create/Import libraries](guides/create-import-libraries.md)
 * [Object Oriented Programming](guides/object-oriented-programming.md)
 
 ## Standard Libraries
