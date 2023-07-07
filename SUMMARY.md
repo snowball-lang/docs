@@ -1,22 +1,17 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
+* [👋 Welcome to snowball!](README.md)
 
 ## Overview
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [🐈 Why Snowball](overview/why-snowball.md)
+* [✨ Language Features](overview/language-features.md)
 
-## Product Guides
+## fundamentals
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
-
-## Fundamentals
-
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+* [🛠 Getting started](fundamentals/getting-started.md)
+* [📝 Installation](fundamentals/installation.md)
+* [👶 Hello world!](fundamentals/hello-world.md)
 
 ## Use Cases
 
