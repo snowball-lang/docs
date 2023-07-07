@@ -13,7 +13,6 @@
 * [📝 Installation](fundamentals/installation.md)
 * [👶 Hello world!](fundamentals/hello-world.md)
 
-## Use Cases
+## snowball cli usage
 
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥 For Developers](use-cases/for-developers.md)
+* [💻 CLI usage and parameters](snowball-cli-usage/cli-usage-and-parameters.md)

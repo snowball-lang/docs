@@ -28,8 +28,8 @@
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="snowball-cli-usage/cli-usage-and-parameters.md" %}
+[cli-usage-and-parameters.md](snowball-cli-usage/cli-usage-and-parameters.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
