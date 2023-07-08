@@ -7,6 +7,10 @@
 * [🐈 Why Snowball](overview/why-snowball.md)
 * [✨ Language Features](overview/language-features.md)
 
+## language reference
+
+* [🤖 functions](language-reference/functions.md)
+
 ## fundamentals
 
 * [🛠 Getting started](fundamentals/getting-started.md)
