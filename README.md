@@ -32,10 +32,10 @@ We've put together some helpful guides for you to get setup with our product qui
 [cli-usage-and-parameters.md](snowball-cli-usage/cli-usage-and-parameters.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="fundamentals/getting-started.md" %}
+[getting-started.md](fundamentals/getting-started.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="fundamentals/hello-world.md" %}
+[hello-world.md](fundamentals/hello-world.md)
 {% endcontent-ref %}
