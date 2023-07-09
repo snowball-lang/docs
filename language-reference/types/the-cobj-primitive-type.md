@@ -1,0 +1,2 @@
+# 📦 The \`cobj\` primitive type
+
