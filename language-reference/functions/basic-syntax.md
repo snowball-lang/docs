@@ -53,6 +53,6 @@ fn noReturns() {
 ```
 {% endhint %}
 
-{% content-ref url="../types/" %}
-[types](../types/)
+{% content-ref url="../types.md" %}
+[types.md](../types.md)
 {% endcontent-ref %}

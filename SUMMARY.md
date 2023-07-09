@@ -20,10 +20,13 @@
   * [❓ External functions](language-reference/functions/external-functions.md)
   * [🔧 Function Attributes](language-reference/functions/function-attributes.md)
   * [💢 LLVM Functions](language-reference/functions/llvm-functions.md)
-* [🎭 Types](language-reference/types/README.md)
+* [🎭 Types](language-reference/types.md)
   * [🔢 Primitive types](language-reference/types/primitive-types.md)
   * [🔀 Reference types](language-reference/types/reference-types.md)
+  * [🔓 Mutability](language-reference/types/mutability.md)
   * [📦 The \`cobj\` primitive type](language-reference/types/the-cobj-primitive-type.md)
+* [🔄 Casting](language-reference/casting/README.md)
+  * [🔐 Mutability casting](language-reference/casting/mutability-casting.md)
 
 ## snowball cli usage
 
