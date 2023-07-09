@@ -17,7 +17,12 @@
 
 * [🤖 Functions](language-reference/functions/README.md)
   * [🐣 Basic syntax](language-reference/functions/basic-syntax.md)
+  * [❓ External functions](language-reference/functions/external-functions.md)
+  * [🔧 Function Attributes](language-reference/functions/function-attributes.md)
+  * [💢 LLVM Functions](language-reference/functions/llvm-functions.md)
+* [🎭 Types](language-reference/types.md)
 
 ## snowball cli usage
 
 * [💻 CLI usage and parameters](snowball-cli-usage/cli-usage-and-parameters.md)
+* [🧪 Testing mode](snowball-cli-usage/testing-mode.md)
