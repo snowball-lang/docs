@@ -24,11 +24,13 @@
   * [🔢 Primitive types](language-reference/types/primitive-types.md)
   * [🔀 Reference types](language-reference/types/reference-types.md)
   * [🔓 Mutability](language-reference/types/mutability.md)
-  * [⁉ Type Generics](language-reference/types/type-generics.md)
+  * [⁉ Type generics](language-reference/types/type-generics.md)
   * [🔖 Type aliases](language-reference/types/type-aliases.md)
   * [📦 The \`cobj\` primitive type](language-reference/types/the-cobj-primitive-type.md)
 * [🔄 Casting](language-reference/casting/README.md)
   * [🔐 Mutability casting](language-reference/casting/mutability-casting.md)
+  * [🦺 Dynamic casting](language-reference/casting/dynamic-casting.md)
+  * [👨🎓 Type conversions](language-reference/casting/type-conversions.md)
 
 ## snowball cli usage
 

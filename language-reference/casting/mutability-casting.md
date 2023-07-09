@@ -7,3 +7,11 @@ In Snowball, mutability casts provide a way to change the mutability of a variab
 </strong></code></pre>
 
 By using mutability casts, you can adapt the mutability of values or references to suit your specific needs. This allows you to control how data is accessed and modified within your program, promoting safer and more flexible code.
+
+{% content-ref url="dynamic-casting.md" %}
+[dynamic-casting.md](dynamic-casting.md)
+{% endcontent-ref %}
+
+{% content-ref url="type-conversions.md" %}
+[type-conversions.md](type-conversions.md)
+{% endcontent-ref %}
