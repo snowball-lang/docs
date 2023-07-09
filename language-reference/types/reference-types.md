@@ -20,7 +20,7 @@ example(a)             // a.field = 54
 By using reference types, you can create references to existing values and safely interact with them without directly manipulating memory addresses. Snowball's reference types enable you to write code that is easier to reason about, maintain, and debug.
 
 {% hint style="info" %}
-**Reference to a reference, to a reference to a...**
+**Reference to a reference to a reference to a...**
 
 You can create as many references as you want (but it's not recomended). for example:
 
