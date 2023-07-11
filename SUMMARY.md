@@ -32,6 +32,7 @@
   * [🦺 Dynamic casting](language-reference/casting/dynamic-casting.md)
   * [👨🎓 Type conversions](language-reference/casting/type-conversions.md)
 * [🏗 Classes](language-reference/classes.md)
+  * [💼 Members](language-reference/classes/members.md)
   * [🔒 Access qualifiers](language-reference/classes/access-qualifiers.md)
 * [🔏 Access qualifiers](language-reference/access-qualifiers.md)
 
