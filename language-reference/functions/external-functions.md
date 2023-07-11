@@ -13,10 +13,10 @@ In this example, `example` is declared as an external function. You can use this
 2. External Function Declaration with Custom Name:
 
 ```rust
-extern "my.weird$function" as myNormalFn();
+extern fn "my.weird$function" as myNormalFn();
 ```
 
-In this example, `myNormalFn` is declared as an external function with a custom name `"my.weird$function"`. This allows you to specify a specific name for the external function that might differ from its original name or naming conventions. You can then use `myNormalFn` to call the function in your Snowball code.
+In this example, `myNormalFn` is declared as an external function with a custom name `"my.weird$function"`. This allows you to specify a specific name for the external function that might differ from its original name or naming conventions. You can then use `myNormalFn` it to call the function in your Snowball code.
 
 When declaring external functions, it's important to ensure that the function name and signature match the actual implementation in the external code. This includes the function name, the number and types of arguments, and the return type.
 
@@ -29,6 +29,3 @@ You don't need to specify argument names in external functions, for example:
 extern fn foo(i32, char*, String);
 ```
 {% endhint %}
-
-
-

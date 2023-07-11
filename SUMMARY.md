@@ -31,6 +31,7 @@
   * [🔐 Mutability casting](language-reference/casting/mutability-casting.md)
   * [🦺 Dynamic casting](language-reference/casting/dynamic-casting.md)
   * [👨🎓 Type conversions](language-reference/casting/type-conversions.md)
+* [🏗 Classes](language-reference/classes.md)
 
 ## snowball cli usage
 
