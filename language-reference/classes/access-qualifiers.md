@@ -13,3 +13,7 @@ class Foo {
     let c: f32 = 1.2; // private scope, again
 }
 ```
+
+{% content-ref url="../access-qualifiers.md" %}
+[access-qualifiers.md](../access-qualifiers.md)
+{% endcontent-ref %}

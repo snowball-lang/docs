@@ -31,9 +31,9 @@
   * [🔐 Mutability casting](language-reference/casting/mutability-casting.md)
   * [🦺 Dynamic casting](language-reference/casting/dynamic-casting.md)
   * [👨🎓 Type conversions](language-reference/casting/type-conversions.md)
-* [🏗 Classes](language-reference/classes/README.md)
+* [🏗 Classes](language-reference/classes.md)
   * [🔒 Access qualifiers](language-reference/classes/access-qualifiers.md)
-* [Page 1](language-reference/page-1.md)
+* [🔏 Access qualifiers](language-reference/access-qualifiers.md)
 
 ## snowball cli usage
 
