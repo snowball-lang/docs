@@ -13,3 +13,13 @@ x::test(); // error: can't access private function form this context
 ```
 
 Remember to carefully consider the desired level of visibility for each program element and choose the appropriate access qualifier accordingly.
+
+{% hint style="success" %}
+```rust
+namespace x {
+ pub fn test() {
+    // ...
+ }
+}
+```
+{% endhint %}
