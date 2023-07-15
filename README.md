@@ -6,7 +6,7 @@
 
 ## Overview
 
-👋 Greetings! Allow me to introduce you to Snowball, a dynamically-typed, low-weight, object-oriented programming language complete with a garbage collector and module system.
+👋 Greetings! Allow me to introduce you to Snowball, a statically-typed, low-weight, object-oriented programming language complete with a garbage collector and module system.
 
 🚀 With a myriad of features to offer, Snowball boasts object-oriented programming, memory safety, built-in functions for enhanced productivity, and faster execution than other languages. Plus, it's garbage collector and unit testing make it a comprehensive tool for developers.
 
