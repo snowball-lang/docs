@@ -33,3 +33,5 @@ macro callIf(x: expr, c: stmt) {
     }
 }
 ```
+
+Macros are a powerful feature in Snowball, allowing you to define reusable code patterns and perform code transformations during compilation. When you call a macro using `@macroName()`, the code within the macro definition is inserted at the call site, providing a convenient way to generate code dynamically.
