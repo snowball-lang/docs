@@ -10,7 +10,8 @@
 ## fundamentals
 
 * [🛠 Getting started](fundamentals/getting-started.md)
-* [📝 Installation](fundamentals/installation.md)
+* [📝 Installation](fundamentals/installation/README.md)
+  * [‼ Common install issues](fundamentals/installation/common-install-issues.md)
 * [👶 Hello world!](fundamentals/hello-world.md)
 
 ## language reference

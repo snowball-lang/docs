@@ -25,3 +25,7 @@ export PATH="$PATH:~/.snowball/bin"
 ```
 
 </details>
+
+{% content-ref url="common-install-issues.md" %}
+[common-install-issues.md](common-install-issues.md)
+{% endcontent-ref %}
