@@ -10,5 +10,3 @@ Snowball is a versatile programming language that offers several compelling reas
 6. Growing Ecosystem: While Snowball is a relatively young language, its ecosystem is expanding. As more developers adopt and contribute to Snowball, the availability of libraries, tools, and community support will continue to grow. This growth fosters innovation and fosters the development of robust applications in Snowball.
 
 Ultimately, the choice of programming language depends on the specific needs of your project and your personal preferences. Snowball's simplicity, strong type system, memory safety, and interoperability make it a compelling option for developers seeking an approachable yet powerful language for their software development endeavors.
-
-<figure><img src="../.gitbook/assets/Frame 7.png" alt="" width="188"><figcaption></figcaption></figure>
