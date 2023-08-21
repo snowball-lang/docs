@@ -27,7 +27,7 @@
   * [🔓 Mutability](language-reference/types/mutability.md)
   * [⁉ Type generics](language-reference/types/type-generics.md)
   * [🔖 Type aliases](language-reference/types/type-aliases.md)
-  * [📦 The \`cobj\` primitive type](language-reference/types/the-cobj-primitive-type.md)
+  * [☝ Pointer types](language-reference/types/pointer-types.md)
 * [🔄 Casting](language-reference/casting/README.md)
   * [🔐 Mutability casting](language-reference/casting/mutability-casting.md)
   * [🦺 Dynamic casting](language-reference/casting/dynamic-casting.md)

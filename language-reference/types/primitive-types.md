@@ -30,8 +30,8 @@ Snowball provides a set of primitive types that serve as the building blocks for
 
 * `cobj`: A representation of a pointer with an unknown-sized type as pointer base.
 
-{% content-ref url="the-cobj-primitive-type.md" %}
-[the-cobj-primitive-type.md](the-cobj-primitive-type.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 These primitive types provide the foundation for representing and manipulating various kinds of data in Snowball programs. They have different sizes and properties, allowing you to choose the appropriate type based on your specific requirements.
