@@ -37,6 +37,7 @@
   * [🔒 Access qualifiers](language-reference/classes/access-qualifiers.md)
 * [🔏 Access qualifiers](language-reference/access-qualifiers.md)
 * [⚒ Macro](language-reference/macro.md)
+* [🔫 Unsafe snowball](language-reference/unsafe-snowball.md)
 
 ## snowball cli usage
 
