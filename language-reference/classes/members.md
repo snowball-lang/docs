@@ -7,7 +7,9 @@ You **must** specify the variable type when declaring a class member.
 ```rust
 class Y {
     let x: i32;
-           ^^^
+//         ^^^
+    let b: f32 = 3.14;
+//               ^^^^ Initialized at the contractor
 }
 ```
 

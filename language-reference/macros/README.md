@@ -1,4 +1,4 @@
-# ⚒ Macro
+# ⚒ Macros
 
 Macros are powerful code transformation tools that allow you to define and reuse code patterns. They provide a way to generate code automatically and perform compile-time code transformations. In Snowball, macros are defined using the `macro` keyword followed by the macro's name. Let's explore macros in detail with different sections:
 
@@ -12,6 +12,7 @@ In snowball. macros are being `type-checked` to provide a better and more secure
   * `chr`: A single constant character value.
 * `expr`: Any type of expression such as a function call, a constant expression or a variable.
 * `stmt`: Any sort of statements such as if statements, while loops and even function definitions.
+* `type`: A type reference that can be used for type reference.
 
 #### Expression macro
 
@@ -35,3 +36,12 @@ macro callIf(x: expr, c: stmt) {
 ```
 
 Macros are a powerful feature in Snowball, allowing you to define reusable code patterns and perform code transformations during compilation. When you call a macro using `@macroName()`, the code within the macro definition is inserted at the call site, providing a convenient way to generate code dynamically.
+
+#### Use of types passed into macros
+
+```rust
+macro createInstance(x: type) = new @x();
+
+@createInstance(:MyClass<i32>)
+//              ^ Notice the ':'
+```

@@ -36,7 +36,8 @@
   * [💼 Members](language-reference/classes/members.md)
   * [🔒 Access qualifiers](language-reference/classes/access-qualifiers.md)
 * [🔏 Access qualifiers](language-reference/access-qualifiers.md)
-* [⚒ Macros](language-reference/macros.md)
+* [⚒ Macros](language-reference/macros/README.md)
+  * [✨ Builtin macros](language-reference/macros/builtin-macros.md)
 * [🔫 Unsafe snowball](language-reference/unsafe-snowball.md)
 
 ## snowball cli usage
