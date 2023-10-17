@@ -13,6 +13,10 @@ Generic functions aren't typechecked until called or used.
 </code></pre>
 {% endhint %}
 
+### Generics 101
 
+{% content-ref url="../generics.md" %}
+[generics.md](../generics.md)
+{% endcontent-ref %}
 
 [^1]: This is considered as a generic function!

@@ -40,6 +40,7 @@
 * [⚒ Macros](language-reference/macros/README.md)
   * [✨ Builtin macros](language-reference/macros/builtin-macros.md)
 * [🔫 Unsafe snowball](language-reference/unsafe-snowball.md)
+* [😴 Generics](language-reference/generics.md)
 
 ## snowball cli usage
 
