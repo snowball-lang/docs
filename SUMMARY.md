@@ -18,6 +18,7 @@
 
 * [🤖 Functions](language-reference/functions/README.md)
   * [🐣 Basic syntax](language-reference/functions/basic-syntax.md)
+  * [😵 Function Generics](language-reference/functions/function-generics.md)
   * [❓ External functions](language-reference/functions/external-functions.md)
   * [🔧 Function Attributes](language-reference/functions/function-attributes.md)
   * [💢 LLVM Functions](language-reference/functions/llvm-functions.md)
