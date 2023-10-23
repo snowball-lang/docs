@@ -20,7 +20,7 @@ unsafe {
 Snowball typically refer to specific function or method invocations that are marked as "unsafe." These calls are used when a developer needs to perform operations that can potentially lead to undefined behavior, memory safety issues, or other risks. In Snowball, the "unsafe" keyword is often used to indicate such calls.
 
 ```rust
-unsafe fn dangerous() { ... }
+unsafe func dangerous() { ... }
     
 unsafe {
     dangerous(); // ok, if you are cool with it ¯\_(ツ)_/¯
@@ -33,4 +33,4 @@ dangerous(); // nah, you can't do that here!
 
 Unsafe Snowball might allow direct pointer arithmetic, enabling manipulation of memory addresses. This can be error-prone and risky if not used carefully.
 
-TODO TODO TODO TODO TODO
+**TODO TODO TODO TODO TODO**

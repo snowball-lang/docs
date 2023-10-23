@@ -2,14 +2,14 @@
 
 ### How to declare generic parameters
 
-Gneric parameters have the same syntax for classes/struct/interfaces and functions.
+Generic parameters have the same syntax for classes/struct/interfaces and functions.
 
 ```kotlin
 class MyOwnInsanelyFastList<T> {...}
 ```
 
-```rust
-fn important_function<T>() {...}
+```swift
+func important_function<T>() {...}
 ```
 
 The overall syntax is&#x20;
@@ -42,9 +42,9 @@ let b: MyVector<i32> // ok
 {% hint style="info" %}
 You can declare `where` clauses separately to either check for other types or better reading:
 
-```typescript
+```swift
 class Vector<T: Sized> {
-   fn to_string<>() 
+   func to_string<>() 
       where T: ToString
    { ... } 
 }

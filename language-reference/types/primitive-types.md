@@ -4,19 +4,20 @@ Snowball provides a set of primitive types that serve as the building blocks for
 
 ### Integer types
 
-* `i8`: 8-bit signed integer type.
-* `i16`: 16-bit signed integer type.
-* `i32`: 32-bit signed integer type.
-* `i64`: 64-bit signed integer type.
-* `u8`: 8-bit unsigned integer type.
-* `u16`: 16-bit unsigned integer type.
-* `u32`: 32-bit unsigned integer type.
-* `u64`: 64-bit unsigned integer type.
+* `i[n]`: n-bit signed integer type.
+  * examples: `i32`, `i64`, `i39`
+* `u[n]`: n-bit unsigned integer type.
+  * examples: `u8`, `u32`, `u128`
+
+{% hint style="warning" %}
+Integer type sizes can only go from **1** (`bool`) to **2^23** (**8,388,608**)
+{% endhint %}
 
 ### Floating-Point Types
 
 * `f32`: 32-bit floating-point type (single-precision).
 * `f64`: 64-bit floating-point type (double-precision).
+* `f16`: (Not implemented yet!)
 
 ### Boolean Type
 
@@ -24,16 +25,18 @@ Snowball provides a set of primitive types that serve as the building blocks for
 
 ### Character Type:
 
-* `char`: A character type representing a single Unicode character.
+* `char`: A character type representing a single Unicode character. (**u8**)
 
-### C Object type
+### Other unsized types
 
-* `cobj`: A representation of a pointer with an unknown-sized type as pointer base.
+These are types that do not implement the `Sized` trait, and therefor, it can't be used in variables, arguments, etc...
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+* `void`: the return type of a function that returns normally, but does not provide a result value to its caller. **It can be used as an** [**unknown pointer type**](unknown-pointer-type-void-pointers.md)**!**
+
+{% content-ref url="reference-types.md" %}
+[reference-types.md](reference-types.md)
 {% endcontent-ref %}
 
 These primitive types provide the foundation for representing and manipulating various kinds of data in Snowball programs. They have different sizes and properties, allowing you to choose the appropriate type based on your specific requirements.
 
-By understanding and utilizing these primitive types effectively, you can perform arithmetic operations, logical evaluations, and handle textual data within your Snowball programs.
+By understanding and utilizing these primitive types effectively, you can perform arithmetic operations, and logical evaluations, and handle textual data within your Snowball programs.

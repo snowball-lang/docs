@@ -4,7 +4,7 @@
 
 When macros are called, they mutate the context from where they are called. By using the `@pkg` macro, the expression given in is executed INSIDE where the macro has been declared.
 
-```rust
+```swift
 // two.sn
 class Hello {}
 
@@ -20,3 +20,5 @@ class Hello {}
 @example1() // Calls one::Hello
 @example2() // Calls two::Hello
 ```
+
+TODO: finish other builtin macros

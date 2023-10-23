@@ -25,29 +25,29 @@ Note that there are still many more to come!
 
 Here's an example that demonstrates the usage of these function attributes:
 
-```rust
-fn [[llvm_function]] example() {
+```swift
+func [[llvm_function]] example() {
     // LLVM code here
 }
 
-fn [[internal_linkage]] fn internalFunction() {
+func [[internal_linkage]] internalFunction() {
     // Function body
 }
 
-fn [[inline]] fn inlineFunction() {
+func [[inline]] inlineFunction() {
     // Function body
 }
 
-fn [[test]] fn testFunction() {
+func [[test]] testFunction() {
     // Function body for testing
-    // note: It will be not generate if it's not compiled
+    // note: It will be not generated if it's not compiled
     //       with "--test" mode
 }
 ```
 
 In this example, the `example` function uses the `[[llvm_function]]` attribute to embed LLVM code. The `internalFunction` is marked with `[[internal_linkage]]`, indicating that it has internal linkage. The `inlineFunction` is annotated with `[[inline]]`, suggesting the compiler to inline the function when appropriate. Finally, the `testFunction` is marked with `[[test]]`, indicating that it serves as a test function.
 
-By using function attributes, you can customize the behavior and optimize the performance of your Snowball functions, as well as provide additional information for testing or other purposes.
+By using function attributes, you can customize the behaviour and optimize the performance of your Snowball functions, as well as provide additional information for testing or other purposes.
 
 {% content-ref url="../../snowball-cli-usage/testing-mode.md" %}
 [testing-mode.md](../../snowball-cli-usage/testing-mode.md)

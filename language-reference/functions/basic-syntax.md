@@ -8,16 +8,16 @@ description: Function arguments and return types
 
 In Snowball, you can define function arguments using the following syntax:
 
-```rust
-fn function_name(argument_name: data_type) {
+```nim
+func function_name(argument_name: data_type) {
     // Function body
 }
 ```
 
 For example, let's consider a function called `hello` that takes a single argument `x` of type `i32` (32-bit integer). The syntax for defining such a function with an argument in Snowball would be:
 
-```rust
-fn hello(x: i32) {
+```nim
+func hello(x: i32) {
     // Function body
 }
 ```
@@ -32,8 +32,8 @@ Using the syntax mentioned above, you can define functions with different argume
 
 In Snowball, you can specify the return type of a function using the following syntax:
 
-```rust
-fn function_name() return_type {
+```nim
+func function_name() return_type {
     // Function body
     // Return statement
 }
@@ -46,8 +46,8 @@ Using the syntax mentioned above, you can define functions with different return
 
 To declare a function as `void`, there's no need to declare `void` type, just can just not put anything:
 
-```rust
-fn noReturns() {
+```nim
+func noReturns() {
     // tada!
 }
 ```

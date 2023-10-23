@@ -4,8 +4,8 @@ Functions are first-class objects like i32 or char and can be stored in addresse
 \
 Functions are called by value. This means that `f(1)` calls the function which is the value of the variable `f`. If the value does not have a function type, it will raise a compiler error.
 
-```rust
-fn myFunc() {
+```nim
+func myFunc() {
     // Some semi-readable code here :)
 }
 ```

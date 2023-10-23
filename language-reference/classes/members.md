@@ -4,7 +4,7 @@ In Snowball, class variables are members of a class that are shared among all in
 
 You **must** specify the variable type when declaring a class member.
 
-```rust
+```swift
 class Y {
     let x: i32;
 //         ^^^

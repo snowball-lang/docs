@@ -4,16 +4,16 @@ In Snowball, you can declare and use external functions that are implemented out
 
 1. Basic External Function Declaration:
 
-```rust
-extern fn example();
+```kts
+external func example();
 ```
 
-In this example, `example` is declared as an external function. You can use this declaration to call the function without providing the implementation within your Snowball code. The implementation of `example` is expected to be provided by an external source, such as another module or library.
+In this example, `example` is declared as an external function. You can use this declaration to call the function without providing the implementation within your Snowball code. The implementation  `example` is expected to be provided by an external source, such as another module or library.
 
 2. External Function Declaration with Custom Name:
 
-```rust
-extern fn "my.weird$function" as myNormalFn();
+```kotlin
+external func "my.weird$function" as myNormalFn();
 ```
 
 In this example, `myNormalFn` is declared as an external function with a custom name `"my.weird$function"`. This allows you to specify a specific name for the external function that might differ from its original name or naming conventions. You can then use `myNormalFn` it to call the function in your Snowball code.
@@ -25,7 +25,7 @@ External functions enable Snowball to interact with external code seamlessly, ex
 {% hint style="info" %}
 You don't need to specify argument names in external functions, for example:
 
-```rust
-extern fn foo(i32, char*, String);
+```kotlin
+external func foo(i32, char*, String);
 ```
 {% endhint %}

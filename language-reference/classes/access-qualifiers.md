@@ -4,12 +4,12 @@ In Snowball, access qualifiers determine the visibility and accessibility of cla
 
 These qualifiers allow you to control the level of encapsulation and restrict or expose class members as needed. Here's an explanation of each access qualifier:
 
-```rust
+```swift
 class Foo {
-  let a: char& = "hello"; // private scope
-  pub:
+    let a: String = "hello"; // private scope
+  public:
     let b: i32 = 0; // public scope
-  priv:
+  private:
     let c: f32 = 1.2; // private scope, again
 }
 ```
