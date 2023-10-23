@@ -9,6 +9,8 @@ Snowball encompasses a range of language features that enhance productivity, cod
 5. Error Handling: Snowball includes mechanisms for error handling. It provides options to handle errors through mechanisms like exceptions or result types, allowing for robust error management and graceful recovery.
 6. Pattern Matching: Pattern matching is a powerful feature in Snowball that enables concise and expressive data manipulation. It allows you to match data structures against patterns and perform specific actions based on the matched pattern. Pattern matching simplifies code and enhances readability, especially when dealing with complex data structures.
 7. Concurrency and Parallelism: Snowball supports concurrency and parallelism through constructs like threads or tasks. These features enable the efficient execution of concurrent or parallel tasks, harnessing the full potential of modern multi-core systems.
-8. Operator Overloading: Snowball allows for operator overloading, enabling you to define custom behaviors for operators when working with user-defined types. This feature enhances the expressiveness of code and provides a more intuitive interface for custom types.
+8. Operator Overloading: Snowball allows for operator overloading, enabling you to define custom behaviours for operators when working with user-defined types. This feature enhances the expressiveness of code and provides a more intuitive interface for custom types.
 
 These language features make Snowball a powerful and expressive programming language, empowering developers to write clean, readable, and efficient code. By leveraging these features, developers can enhance their productivity and build robust applications.
+
+<figure><img src="../.gitbook/assets/98821530.png" alt="" width="100"><figcaption><p>We also have a cute cat as mascot :)</p></figcaption></figure>
