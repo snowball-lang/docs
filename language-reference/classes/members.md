@@ -9,7 +9,7 @@ class Y {
     let x: i32;
 //         ^^^
     let b: f32 = 3.14;
-//               ^^^^ Initialized at the contractor
+//               ^^^^ Initialized at the constructor
 }
 ```
 
