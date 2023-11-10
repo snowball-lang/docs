@@ -1,6 +1,6 @@
 # 🔒 Access qualifiers
 
-In Snowball, access qualifiers determine the visibility and accessibility of class members (variables and methods) from outside the class. Snowball provides three access qualifiers: `pub`, `priv`.&#x20;
+In Snowball, access qualifiers determine the visibility and accessibility of class members (variables and methods) from outside the class. Snowball provides 2 access qualifiers: `public` and `private`.&#x20;
 
 These qualifiers allow you to control the level of encapsulation and restrict or expose class members as needed. Here's an explanation of each access qualifier:
 
