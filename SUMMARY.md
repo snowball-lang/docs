@@ -42,6 +42,8 @@
   * [✨ Builtin macros](language-reference/macros/builtin-macros.md)
 * [🔫 Unsafe snowball](language-reference/unsafe-snowball.md)
 * [😴 Generics](language-reference/generics.md)
+* [🌳 Code Flow](language-reference/code-flow/README.md)
+  * [☝ If statements](language-reference/code-flow/if-statements.md)
 
 ## snowball cli usage
 
