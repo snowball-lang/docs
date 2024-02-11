@@ -16,6 +16,7 @@
 
 ## language reference
 
+* [🌐 Global Scope](language-reference/global-scope.md)
 * [🤖 Functions](language-reference/functions/README.md)
   * [🐣 Basic syntax](language-reference/functions/basic-syntax.md)
   * [😵 Function Generics](language-reference/functions/function-generics.md)
