@@ -38,6 +38,8 @@
 * [🏗 Classes](language-reference/classes.md)
   * [💼 Members](language-reference/classes/members.md)
   * [🔒 Access qualifiers](language-reference/classes/access-qualifiers.md)
+  * [🛑 Final classes](language-reference/classes/final-classes.md)
+  * [🍧 Abstract classess](language-reference/classes/abstract-classess.md)
 * [🔏 Access qualifiers](language-reference/access-qualifiers.md)
 * [⚒ Macros](language-reference/macros/README.md)
   * [✨ Builtin macros](language-reference/macros/builtin-macros.md)
