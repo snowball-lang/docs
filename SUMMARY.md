@@ -9,9 +9,9 @@
 
 ## fundamentals
 
-* [🛠 Getting started](fundamentals/getting-started.md)
+* [🛠️ Getting started](fundamentals/getting-started.md)
 * [📝 Installation](fundamentals/installation/README.md)
-  * [‼ Common install issues](fundamentals/installation/common-install-issues.md)
+  * [‼️ Common install issues](fundamentals/installation/common-install-issues.md)
 * [👶 Hello world!](fundamentals/hello-world.md)
 
 ## language reference
@@ -26,27 +26,27 @@
 * [🎭 Types](language-reference/types.md)
   * [🔢 Primitive types](language-reference/types/primitive-types.md)
   * [🔀 Reference types](language-reference/types/reference-types.md)
-  * [☝ Pointer types](language-reference/types/pointer-types.md)
+  * [☝️ Pointer types](language-reference/types/pointer-types.md)
   * [🔓 Mutability](language-reference/types/mutability.md)
-  * [⁉ Type generics](language-reference/types/type-generics.md)
+  * [⁉️ Type generics](language-reference/types/type-generics.md)
   * [🔖 Type aliases](language-reference/types/type-aliases.md)
   * [🚯 Unknown pointer type (void pointers)](language-reference/types/unknown-pointer-type-void-pointers.md)
 * [🔄 Casting](language-reference/casting/README.md)
   * [🔐 Mutability casting](language-reference/casting/mutability-casting.md)
   * [🦺 Dynamic casting](language-reference/casting/dynamic-casting.md)
-  * [👨🎓 Type conversions](language-reference/casting/type-conversions.md)
-* [🏗 Classes](language-reference/classes.md)
+  * [👨‍🎓 Type conversions](language-reference/casting/type-conversions.md)
+* [🏗️ Classes](language-reference/classes.md)
   * [💼 Members](language-reference/classes/members.md)
   * [🔒 Access qualifiers](language-reference/classes/access-qualifiers.md)
   * [🛑 Final classes](language-reference/classes/final-classes.md)
-  * [🍧 Abstract classess](language-reference/classes/abstract-classess.md)
+  * [🍧 Abstract classes](language-reference/classes/abstract-classes.md)
 * [🔏 Access qualifiers](language-reference/access-qualifiers.md)
-* [⚒ Macros](language-reference/macros/README.md)
+* [⚒️ Macros](language-reference/macros/README.md)
   * [✨ Builtin macros](language-reference/macros/builtin-macros.md)
 * [🔫 Unsafe snowball](language-reference/unsafe-snowball.md)
 * [😴 Generics](language-reference/generics.md)
 * [🌳 Code Flow](language-reference/code-flow/README.md)
-  * [☝ If statements](language-reference/code-flow/if-statements.md)
+  * [☝️ If statements](language-reference/code-flow/if-statements.md)
 
 ## snowball cli usage
 

@@ -22,8 +22,6 @@ func hello(x: i32) {
 }
 ```
 
-In this example, the function `hello` has an argument `x` of type `i32`. You can replace `i32` with other supported data types based on your specific requirements, such as `u32` for unsigned 32-bit integers, `f64` for 64-bit floating-point numbers, or `String` for strings.
-
 Within the function body, you can access and use the argument `x` as needed to perform operations or calculations. Remember to provide the appropriate data type when invoking the `hello` function and passing values for the argument.
 
 Using the syntax mentioned above, you can define functions with different arguments in Snowball, allowing for flexible and modular code development.
@@ -44,10 +42,10 @@ Using the syntax mentioned above, you can define functions with different return
 {% hint style="info" %}
 **Voided functions**
 
-To declare a function as `void`, there's no need to declare `void` type, just can just not put anything:
+To declare a function as `void`, there's no need to declare `void` type, just can not put anything:
 
 ```nim
-func noReturns() {
+func no_returns(a: i32, b: f32) {
     // tada!
 }
 ```
