@@ -9,7 +9,7 @@ description: Function arguments and return types
 In Snowball, you can define function arguments using the following syntax:
 
 ```nim
-func function_name(argument_name: data_type) {
+func function_name(name: type) {
     // Function body
 }
 ```
@@ -17,7 +17,7 @@ func function_name(argument_name: data_type) {
 For example, let's consider a function called `hello` that takes a single argument `x` of type `i32` (32-bit integer). The syntax for defining such a function with an argument in Snowball would be:
 
 ```nim
-func hello(x: i32) {
+func hello(x: i32, y: f32) {
     // Function body
 }
 ```
