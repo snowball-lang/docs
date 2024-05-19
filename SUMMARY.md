@@ -23,6 +23,7 @@
   * [❓ External functions](language-reference/functions/external-functions.md)
   * [🔧 Function Attributes](language-reference/functions/function-attributes.md)
   * [💢 LLVM Functions](language-reference/functions/llvm-functions.md)
+  * [🚪 Program Entries](language-reference/functions/program-entries.md)
 * [🎭 Types](language-reference/types.md)
   * [🔢 Primitive types](language-reference/types/primitive-types.md)
   * [🔀 Reference types](language-reference/types/reference-types.md)
