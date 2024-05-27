@@ -54,6 +54,11 @@
 * [💻 CLI usage and parameters](snowball-cli-usage/cli-usage-and-parameters.md)
 * [🧪 Testing mode](snowball-cli-usage/testing-mode.md)
 
+## Confy&#x20;
+
+* [⚙️ Getting Started](confy/getting-started.md)
+* [🐈 Snowball's Schema](confy/snowball.md)
+
 ## Reky Package Manager <a href="#reky" id="reky"></a>
 
 * [📦 Getting Started](reky/getting-started.md)
