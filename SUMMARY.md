@@ -54,6 +54,10 @@
 * [💻 CLI usage and parameters](snowball-cli-usage/cli-usage-and-parameters.md)
 * [🧪 Testing mode](snowball-cli-usage/testing-mode.md)
 
+## 📦 Reky
+
+* [👼 Getting Started](reky/getting-started.md)
+
 ## coding style
 
 * [💅 The desired standard](coding-style/the-desired-standard.md)
