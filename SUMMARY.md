@@ -48,6 +48,8 @@
 * [😴 Generics](language-reference/generics.md)
 * [🌳 Code Flow](language-reference/code-flow/README.md)
   * [☝️ If statements](language-reference/code-flow/if-statements.md)
+* [📦 Modules](language-reference/modules/README.md)
+  * [👉 Using Statement](language-reference/modules/using-statement.md)
 
 ## snowball cli usage
 
